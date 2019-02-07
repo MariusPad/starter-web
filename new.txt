@@ -2,5 +2,3 @@ text
 <<<<<<< HEAD
 Adding changes before rebasing conflict
 ddfssjafkldas
-fskljdfds
-fdlasfkljdas
